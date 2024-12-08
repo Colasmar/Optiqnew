@@ -1,0 +1,115 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Activity 1",
+      "description": "Description of Activity 1",
+      "guarantor_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Activity 2",
+      "description": "Description of Activity 2",
+      "guarantor_id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "activity_id": 1,
+      "title": "Task 1 for Activity 1"
+    },
+    {
+      "id": 2,
+      "activity_id": 2,
+      "title": "Task 1 for Activity 2"
+    },
+    {
+      "id": 3,
+      "activity_id": 1,
+      "title": "ezrzer"
+    },
+    {
+      "id": 4,
+      "activity_id": 2,
+      "title": "sddsds"
+    },
+    {
+      "id": 5,
+      "activity_id": 1,
+      "title": "tache activité 1"
+    },
+    {
+      "id": 6,
+      "activity_id": 2,
+      "title": "ajout activité 2"
+    },
+    {
+      "id": 7,
+      "activity_id": 1,
+      "title": "Tâche 1"
+    },
+    {
+      "id": 8,
+      "activity_id": 1,
+      "title": "Test d'intitulé Activité 1 pour nouvelle tâche"
+    },
+    {
+      "id": 9,
+      "activity_id": 2,
+      "title": "Nouvelle tâche pour l'activité 2"
+    },
+    {
+      "id": 10,
+      "activity_id": 1,
+      "title": "bête ajout"
+    },
+    {
+      "id": 11,
+      "activity_id": 1,
+      "title": "dernière tâche 1"
+    },
+    {
+      "id": 12,
+      "activity_id": 1,
+      "title": "Fonctionnalité vériié"
+    },
+    {
+      "id": 13,
+      "activity_id": 2,
+      "title": "Vérification ajout de tache activité 2"
+    },
+    {
+      "id": 14,
+      "activity_id": 2,
+      "title": "Vérification fonctionnelle de l'ajout d'une tâche"
+    },
+    {
+      "id": 15,
+      "activity_id": 1,
+      "title": "Ceci est un nouvel ajout en activité 1 dans le code de réinitialisation."
+    },
+    {
+      "id": 16,
+      "activity_id": 1,
+      "title": "Pourquoi cela ne marche plus ?"
+    },
+    {
+      "id": 17,
+      "activity_id": 2,
+      "title": "Est-ce que cela marche une deuxieme fois"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Role 1",
+      "description": "Description of Role 1"
+    },
+    {
+      "id": 2,
+      "name": "Role 2",
+      "description": "Description of Role 2"
+    }
+  ]
+}
